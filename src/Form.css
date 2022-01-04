@@ -1,0 +1,23 @@
+.rotate{
+  width:80px;
+  height:80px;
+  animation: rotation infinite 3s linear;
+}
+@keyframes rotation{
+  from{
+    transform:rotate(0deg);
+  }
+
+  to{
+    transform:rotate(360deg);
+  }
+}
+.image{
+    padding: 10px;
+    width: 1000px;
+    height: 100px;
+    flex: 100PX;
+    color: blueviolet;
+    
+
+}

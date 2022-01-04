@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
 export default function App() {
   return (
     <>
-      <Router>
+      {/*<Router>
         <Routes>
           <div>
             <Link to="/Form" path="/Form">
@@ -23,7 +23,7 @@ export default function App() {
             <Route exact path="/Button" component={Button}></Route>
           </div>
         </Routes>
-      </Router>
+      </Router>*/}
     </>
   );
 }
