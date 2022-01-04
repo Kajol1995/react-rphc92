@@ -4,8 +4,8 @@ import './App.css';
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <h1>Hello!!!</h1>
+      <p>Myself Kajol... :)</p>
     </div>
   );
 }
